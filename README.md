@@ -3,7 +3,8 @@
 This repository contains small React projects for daily practice, including:  
 
 - **Form Project**: A basic form handling and validation exercise.  
-- **Stopwatch Project**: A functional stopwatch with start, stop, and reset features.  
+- **Stopwatch Project**: A functional stopwatch with start, stop, and reset features.
+-**ReactConcepts**: learning react concepts daily and im commanded old concepts or component   
 
 ## Getting Started  
 
