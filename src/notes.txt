@@ -1,0 +1,39 @@
+ROUTER
+--> Used to go navigate one page to another page
+--> npm install router (fun comp)-->rsf
+--> use <Link> from react-router-dom.import {Link} from 'reac-router-dom'
+use the structure in app.js
+import {BrowserRouter as Router,Routes,Route} 
+<Router>
+    <Routes>
+        <Route path='/keyname' element={filepath}>
+
+
+For Navigate through BUTTON
+-->USe useNavigate() method
+--> Store useNavigate() in const variable
+--> create function function name()
+
+AXIOS -- API Fetching
+--> 1.npm install axios
+
+
+Context,usecontext --use instead of props(10-2-24)
+-->create Context
+--> context provider
+
+Usecontext(11-2-24) 
+-->single file multiple comp
+-->alternate to props
+--> accsess value from fun1 to fun4 without passing btw
+
+
+(12-2-24)
+USEREDUCER(13-2-24)
+-->Dispatch - act as delivery person
+
+USEREF
+to pass value in func use const[] in class use constructor--super--this.
+
+
+

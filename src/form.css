@@ -1,0 +1,26 @@
+form{
+    background-color: antiquewhite;
+    width: 25vw;
+    margin: 0 auto;
+    margin-top: 20vh;
+    /* border: 2px black solid; */
+    box-shadow: 0px 0px 40px 0px rgba(0,0,0,0.3);
+}
+div{
+    margin: 10px;
+}
+.name{
+    display: flex;
+    align-items: center;
+}
+.name>input{
+    margin: 10px;
+    
+}
+.sub{
+    margin: 20px;
+    margin-left: 30px;
+}
+.role>select{
+    margin: 10px;
+}
