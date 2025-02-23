@@ -9,6 +9,7 @@ import Forminfunc from './Funform'
 import Hover from './Hover';
 import Didm from './Didm'
 import Timer from './Timer';
+import Bk from './Bk';
 
 function App() {
   return (
@@ -24,7 +25,8 @@ function App() {
       {/* <Forminfunc/> */}
       {/* <Hover/> */}
       {/* <Didm/> */}
-      <Timer/>
+      {/* <Timer/> */}
+      <Bk/>
       
     </div>
   );
